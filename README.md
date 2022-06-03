@@ -1,7 +1,7 @@
 # Flutter Carousel
 
 <p align="center">
-<img style="display: block; margin: auto; width: 250px;" src="https://teddy-kekana-blog.s3.amazonaws.com/flutter-carousel.png">
+<img style="display: block; margin: auto; width: 250px;" src="https://teddy-kekana-blog.s3.amazonaws.com/flutter-carousel-shot.png">
 </p>
 
 ## Prerequisite(s) on IOS
