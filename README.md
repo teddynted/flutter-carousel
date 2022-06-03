@@ -1,16 +1,29 @@
-# flutter_carousel
+# Flutter Carousel
 
-A new Flutter project.
+<p align="center">
+<img style="display: block; margin: auto; width: 250px;" src="https://teddy-kekana-blog.s3.amazonaws.com/flutter-carousel.png">
+</p>
 
-## Getting Started
+## Prerequisite(s) on IOS
 
-This project is a starting point for a Flutter application.
+&bull; Xcode (or Android Studio)
+&bull; Flutter Framework Installed
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Ensure you have an access token setup on Github.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/teddynted/flutter-carousel.git
+```
+
+Head over to the root of your directory, wherever it's cloned.
+```bash
+cd flutter-carousel
+```
+
+Run your app.
+
+```bash
+flutter run
+```
