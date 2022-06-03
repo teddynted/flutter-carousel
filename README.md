@@ -22,7 +22,7 @@ Head over to the root of your directory, wherever it's cloned.
 cd flutter-carousel
 ```
 
-Run your app.
+Run your app
 
 ```bash
 flutter run
